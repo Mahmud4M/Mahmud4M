@@ -15,6 +15,6 @@ Skills:  REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on team
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmud4M)](https://github.com/Mahmud4M/github-readme-stats)
 
 
