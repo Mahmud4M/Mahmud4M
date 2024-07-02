@@ -19,6 +19,6 @@ Skills:  REACT / JS / HTML / CSS
 
 [![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmud4M&show_icons=true)](https://github.com/Mahmud4M/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud4M)](https://github.com/Mahmud4M/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmud4M&layout=compact)](https://github.com/Mahmud4M/github-readme-stats)
 
 
