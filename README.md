@@ -1,3 +1,4 @@
+
 ## Hey Man! Nice to meet you.
 
 <p>Welcome to my page! </br> I'm Muhammad Mahmudul Hasan, Jr. Mern stack developer from  <b>Rajshahi, Bangladesh</b>. </p>
@@ -11,6 +12,9 @@ Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on my personal projects 
 - 🌱 I’m currently learning in Programming hero 
-- 👯 I’m looking to collaborate on team 
+- 👯 I’m looking to collaborate on team
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
