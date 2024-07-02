@@ -1,6 +1,6 @@
 ## Hey! Wellcome in My Github Profile.
 
-<p>Welcome to my page! </br> I'm Muhammad Mahmudul Hasan, Jr Mern stack developer from  <b>Rajshahi, Bangladesh</b>. </p>
+<p>Welcome to my page! </br> I'm Muhammad Mahmudul Hasan, Jr. Mern stack developer from  <b>Rajshahi, Bangladesh</b>. </p>
 
 ![](https://media.licdn.com/dms/image/D5616AQHB4HueVeec_Q/profile-displaybackgroundimage-shrink_350_1400/0/1719929887564?e=1725494400&v=beta&t=OzBjJcXlfWiozUJwllCrNHaGR75-hsCecSfSO3f_K1Y)
 
